@@ -1,0 +1,32 @@
+{
+    "name": "tempest-rimuru-theme",
+    "displayName": "pastel-matrix-theme",
+    "description": "theme based on futuristic world !",
+    "version": "0.0.1",
+    "publisher":"harshsharma123",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/harrycodeswhileworldsleeps/pastel-matrix"
+    },
+    "keywords": [
+        "theme",
+        "matrix",
+        "pastel matrix",
+        "harsh sharma"
+    ],
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "rimuru san theme ",
+                "uiTheme": "hc-black",
+                "path": "./themes/rimuru san theme -color-theme.json"
+            }
+        ]
+    }
+}
